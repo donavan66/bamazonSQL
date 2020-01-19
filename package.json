@@ -1,0 +1,21 @@
+{
+  "name": "homework7",
+  "version": "1.0.0",
+  "description": "bamazon homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bamazon",
+    "homework",
+    "customer"
+  ],
+  "author": "Donavan Phothirath",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "inquirer": "^7.0.3",
+    "mysql": "^2.17.1"
+  }
+}
